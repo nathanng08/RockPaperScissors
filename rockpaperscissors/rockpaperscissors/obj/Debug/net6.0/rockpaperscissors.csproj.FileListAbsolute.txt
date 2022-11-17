@@ -1,0 +1,15 @@
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.csproj.AssemblyReference.cache
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.AssemblyInfoInputs.cache
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.AssemblyInfo.cs
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.csproj.CoreCompileInputs.cache
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/net6.0/rockpaperscissors
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/net6.0/rockpaperscissors.deps.json
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/net6.0/rockpaperscissors.runtimeconfig.json
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/net6.0/rockpaperscissors.dll
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/net6.0/rockpaperscissors.pdb
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.dll
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/refint/rockpaperscissors.dll
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.pdb
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/rockpaperscissors.genruntimeconfig.cache
+/Users/nathanng/Projects/rockpaperscissors/rockpaperscissors/obj/Debug/net6.0/ref/rockpaperscissors.dll
